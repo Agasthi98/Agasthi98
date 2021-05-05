@@ -11,8 +11,6 @@
 
 ### Connect with me:
 
-<p align="center">
-  
 <a href="https://twitter.com/sankalana98">
   <img  alt="Agasthi sankalana" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
