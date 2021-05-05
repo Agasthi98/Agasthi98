@@ -12,7 +12,7 @@
 ### Connect with me:
 
 <p align="center">
-  <samp>
+  
 <a href="https://twitter.com/sankalana98">
   <img  alt="Agasthi sankalana" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -28,7 +28,7 @@
 <a href="https://www.facebook.com/agasthi.sankalana/">
   <img  alt="Agasthi sankalana" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-  </samp>
+
 
 <br />
 
