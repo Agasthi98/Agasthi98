@@ -7,7 +7,7 @@
 
 - :goal_net: Goal- **Contribute more projects :fire:**
 
-- ⚡ Fun fact **love to travel..:green_heart:**
+- ⚡ Fun fact **love to travel..     :palm_tree:**
 
 ### Connect with me: 
 
