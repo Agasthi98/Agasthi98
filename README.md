@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agasthi Sankalana</h1>
-<h3 align="center">Blogger | UI/UX Designer | FullStack Developer  :neckbeard:</h3>
+<h3 align="center">Blogger | UI/UX Designer | FullStack Developer :wink:</h3>
 
 - 🌱 I’m currently learning **React.js/Spring Boot**
 
