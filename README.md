@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **Responsive web designing**
 
--  :eyes: I’m looking to **collaborate with other content creators**
-
-- :goal_net: I'm looking to **Collaborate on github  :fire:**
+-  :eyes: I'm looking to **Collaborate on github  :fire:**
 
 - ⚡ Fun fact **love to travel..     :palm_tree:**
 
