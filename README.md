@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Agasthi Sankalana</h1>
 <h3 align="center">Blogger | UI/UX Designer | FullStack Developer :wink:</h3>
 
-- 🌱 I’m currently learning **React.js/Spring Boot**
+-  :books: I’m interested in **React js, Node js and JS**
 
-- 👯 I’m looking to **collaborate with other content creators**
+- 🌱 I’m currently learning **Responsive web designing**
 
-- :goal_net: Goal- **Contribute more projects :fire:**
+-  :eyes: I’m looking to **collaborate with other content creators**
+
+- :goal_net: I'm looking to **Collaborate on github  :fire:**
 
 - ⚡ Fun fact **love to travel..     :palm_tree:**
 
