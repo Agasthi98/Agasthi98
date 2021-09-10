@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agasthi Sankalana</h1>
-<h3 align="center">FullStack Developer :wink:</h3>
+<h3 align="center">FullStack Developer</h3>
 
 
 -  :books: I’m interested in **React js, Node js and JS**
