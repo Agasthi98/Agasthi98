@@ -10,6 +10,9 @@
 
 - ⚡ Fun fact **love to travel..     :palm_tree:**
 
+
+[![An image of @agaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agaa)](https://holopin.io/@agaa)
+
 ### Connect with me: 
 
 
